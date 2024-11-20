@@ -1,5 +1,5 @@
 
-# LSTM-based AI with Heuristic for Predicting Stock Prices
+# Prediction of TESLA Stock Data using Time Series Analysis
 
 ## Overview
 This project employs a Long Short-Term Memory (LSTM) neural network combined with heuristic techniques to predict stock prices for Tesla (TSLA) over a 2-year period based on historical data. The approach integrates AI and time-series decomposition to achieve a **76% prediction accuracy**.
